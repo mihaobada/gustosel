@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "gustosel.live",
+  "Id": "04d8605d-4483-430b-9a2a-4cf044b107df"
+}
